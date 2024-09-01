@@ -9,4 +9,4 @@ Usage:
 Theory:
 For more information, check out this awesome article about sampling from a discrete distribution by Keith Schwarz: https://www.keithschwarz.com/darts-dice-coins/
 
-As well as own code of the algo in Java: https://www.keithschwarz.com/interesting/code/?dir=alias-method
+As well as his code of the algo in Java: https://www.keithschwarz.com/interesting/code/?dir=alias-method
