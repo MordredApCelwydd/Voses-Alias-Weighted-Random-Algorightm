@@ -6,7 +6,7 @@ public class Algo
     
     public Algo(List<double> spawnChances)
     {
-       // CheckStartingValues(spawnChances);
+        CheckStartingValues(spawnChances);
         
         for (int i = 0; i < spawnChances.Count; i++)
         {
